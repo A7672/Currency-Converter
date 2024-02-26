@@ -1,0 +1,19 @@
+#cal-contaner{
+  border: 1px solid black;
+  width: 200px;
+}
+#input{
+  margin: 15px;
+  width: 80%;
+  font-size:25px ;
+}
+.button-container{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.btn-list{
+  width: 44px;
+  height: 44px;
+  margin: 5px;
+}
